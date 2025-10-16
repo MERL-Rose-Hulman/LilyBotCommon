@@ -1,0 +1,1 @@
+`cover-normal-height` is compatible with most controllers, including UNO and PICO.
